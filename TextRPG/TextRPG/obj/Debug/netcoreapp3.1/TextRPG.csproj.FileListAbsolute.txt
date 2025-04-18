@@ -1,0 +1,4 @@
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\netcoreapp3.1\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\netcoreapp3.1\TextRPG.AssemblyInfoInputs.cache
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\netcoreapp3.1\TextRPG.AssemblyInfo.cs
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\netcoreapp3.1\TextRPG.csproj.CoreCompileInputs.cache

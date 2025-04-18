@@ -1,0 +1,14 @@
+E:\TeamSprta\TextRPG\TextRPG\bin\Debug\net9.0\TextRPG.exe
+E:\TeamSprta\TextRPG\TextRPG\bin\Debug\net9.0\TextRPG.deps.json
+E:\TeamSprta\TextRPG\TextRPG\bin\Debug\net9.0\TextRPG.runtimeconfig.json
+E:\TeamSprta\TextRPG\TextRPG\bin\Debug\net9.0\TextRPG.dll
+E:\TeamSprta\TextRPG\TextRPG\bin\Debug\net9.0\TextRPG.pdb
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\net9.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\net9.0\TextRPG.AssemblyInfoInputs.cache
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\net9.0\TextRPG.AssemblyInfo.cs
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\net9.0\TextRPG.csproj.CoreCompileInputs.cache
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\net9.0\TextRPG.dll
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\net9.0\refint\TextRPG.dll
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\net9.0\TextRPG.pdb
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\net9.0\TextRPG.genruntimeconfig.cache
+E:\TeamSprta\TextRPG\TextRPG\obj\Debug\net9.0\ref\TextRPG.dll
